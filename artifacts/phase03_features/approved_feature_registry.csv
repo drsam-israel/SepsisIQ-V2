@@ -1,0 +1,231 @@
+FeatureName,FeatureFamily,SourceVariable,PrimaryPredictor,PredictionTimeAvailable,PopulationParameterRequired,TrainingOnlyFitRequired
+HR,Current clinical value,HR,True,True,False,False
+O2Sat,Current clinical value,O2Sat,True,True,False,False
+Temp,Current clinical value,Temp,True,True,False,False
+SBP,Current clinical value,SBP,True,True,False,False
+MAP,Current clinical value,MAP,True,True,False,False
+DBP,Current clinical value,DBP,True,True,False,False
+Resp,Current clinical value,Resp,True,True,False,False
+EtCO2,Current clinical value,EtCO2,True,True,False,False
+BaseExcess,Current clinical value,BaseExcess,True,True,False,False
+HCO3,Current clinical value,HCO3,True,True,False,False
+FiO2,Current clinical value,FiO2,True,True,False,False
+pH,Current clinical value,pH,True,True,False,False
+PaCO2,Current clinical value,PaCO2,True,True,False,False
+SaO2,Current clinical value,SaO2,True,True,False,False
+AST,Current clinical value,AST,True,True,False,False
+BUN,Current clinical value,BUN,True,True,False,False
+Alkalinephos,Current clinical value,Alkalinephos,True,True,False,False
+Calcium,Current clinical value,Calcium,True,True,False,False
+Chloride,Current clinical value,Chloride,True,True,False,False
+Creatinine,Current clinical value,Creatinine,True,True,False,False
+Bilirubin_direct,Current clinical value,Bilirubin_direct,True,True,False,False
+Glucose,Current clinical value,Glucose,True,True,False,False
+Lactate,Current clinical value,Lactate,True,True,False,False
+Magnesium,Current clinical value,Magnesium,True,True,False,False
+Phosphate,Current clinical value,Phosphate,True,True,False,False
+Potassium,Current clinical value,Potassium,True,True,False,False
+Bilirubin_total,Current clinical value,Bilirubin_total,True,True,False,False
+TroponinI,Current clinical value,TroponinI,True,True,False,False
+Hct,Current clinical value,Hct,True,True,False,False
+Hgb,Current clinical value,Hgb,True,True,False,False
+PTT,Current clinical value,PTT,True,True,False,False
+WBC,Current clinical value,WBC,True,True,False,False
+Fibrinogen,Current clinical value,Fibrinogen,True,True,False,False
+Platelets,Current clinical value,Platelets,True,True,False,False
+HR__missing,Current missingness,HR,True,True,False,False
+HR__last,Last observed value,HR,True,True,False,False
+HR__count,Cumulative measurement count,HR,True,True,False,False
+HR__time_since,Time since measurement,HR,True,True,False,False
+O2Sat__missing,Current missingness,O2Sat,True,True,False,False
+O2Sat__last,Last observed value,O2Sat,True,True,False,False
+O2Sat__count,Cumulative measurement count,O2Sat,True,True,False,False
+O2Sat__time_since,Time since measurement,O2Sat,True,True,False,False
+Temp__missing,Current missingness,Temp,True,True,False,False
+Temp__last,Last observed value,Temp,True,True,False,False
+Temp__count,Cumulative measurement count,Temp,True,True,False,False
+Temp__time_since,Time since measurement,Temp,True,True,False,False
+SBP__missing,Current missingness,SBP,True,True,False,False
+SBP__last,Last observed value,SBP,True,True,False,False
+SBP__count,Cumulative measurement count,SBP,True,True,False,False
+SBP__time_since,Time since measurement,SBP,True,True,False,False
+MAP__missing,Current missingness,MAP,True,True,False,False
+MAP__last,Last observed value,MAP,True,True,False,False
+MAP__count,Cumulative measurement count,MAP,True,True,False,False
+MAP__time_since,Time since measurement,MAP,True,True,False,False
+DBP__missing,Current missingness,DBP,True,True,False,False
+DBP__last,Last observed value,DBP,True,True,False,False
+DBP__count,Cumulative measurement count,DBP,True,True,False,False
+DBP__time_since,Time since measurement,DBP,True,True,False,False
+Resp__missing,Current missingness,Resp,True,True,False,False
+Resp__last,Last observed value,Resp,True,True,False,False
+Resp__count,Cumulative measurement count,Resp,True,True,False,False
+Resp__time_since,Time since measurement,Resp,True,True,False,False
+EtCO2__missing,Current missingness,EtCO2,True,True,False,False
+EtCO2__last,Last observed value,EtCO2,True,True,False,False
+EtCO2__count,Cumulative measurement count,EtCO2,True,True,False,False
+EtCO2__time_since,Time since measurement,EtCO2,True,True,False,False
+BaseExcess__missing,Current missingness,BaseExcess,True,True,False,False
+BaseExcess__last,Last observed value,BaseExcess,True,True,False,False
+BaseExcess__count,Cumulative measurement count,BaseExcess,True,True,False,False
+BaseExcess__time_since,Time since measurement,BaseExcess,True,True,False,False
+HCO3__missing,Current missingness,HCO3,True,True,False,False
+HCO3__last,Last observed value,HCO3,True,True,False,False
+HCO3__count,Cumulative measurement count,HCO3,True,True,False,False
+HCO3__time_since,Time since measurement,HCO3,True,True,False,False
+FiO2__missing,Current missingness,FiO2,True,True,False,False
+FiO2__last,Last observed value,FiO2,True,True,False,False
+FiO2__count,Cumulative measurement count,FiO2,True,True,False,False
+FiO2__time_since,Time since measurement,FiO2,True,True,False,False
+pH__missing,Current missingness,pH,True,True,False,False
+pH__last,Last observed value,pH,True,True,False,False
+pH__count,Cumulative measurement count,pH,True,True,False,False
+pH__time_since,Time since measurement,pH,True,True,False,False
+PaCO2__missing,Current missingness,PaCO2,True,True,False,False
+PaCO2__last,Last observed value,PaCO2,True,True,False,False
+PaCO2__count,Cumulative measurement count,PaCO2,True,True,False,False
+PaCO2__time_since,Time since measurement,PaCO2,True,True,False,False
+SaO2__missing,Current missingness,SaO2,True,True,False,False
+SaO2__last,Last observed value,SaO2,True,True,False,False
+SaO2__count,Cumulative measurement count,SaO2,True,True,False,False
+SaO2__time_since,Time since measurement,SaO2,True,True,False,False
+AST__missing,Current missingness,AST,True,True,False,False
+AST__last,Last observed value,AST,True,True,False,False
+AST__count,Cumulative measurement count,AST,True,True,False,False
+AST__time_since,Time since measurement,AST,True,True,False,False
+BUN__missing,Current missingness,BUN,True,True,False,False
+BUN__last,Last observed value,BUN,True,True,False,False
+BUN__count,Cumulative measurement count,BUN,True,True,False,False
+BUN__time_since,Time since measurement,BUN,True,True,False,False
+Alkalinephos__missing,Current missingness,Alkalinephos,True,True,False,False
+Alkalinephos__last,Last observed value,Alkalinephos,True,True,False,False
+Alkalinephos__count,Cumulative measurement count,Alkalinephos,True,True,False,False
+Alkalinephos__time_since,Time since measurement,Alkalinephos,True,True,False,False
+Calcium__missing,Current missingness,Calcium,True,True,False,False
+Calcium__last,Last observed value,Calcium,True,True,False,False
+Calcium__count,Cumulative measurement count,Calcium,True,True,False,False
+Calcium__time_since,Time since measurement,Calcium,True,True,False,False
+Chloride__missing,Current missingness,Chloride,True,True,False,False
+Chloride__last,Last observed value,Chloride,True,True,False,False
+Chloride__count,Cumulative measurement count,Chloride,True,True,False,False
+Chloride__time_since,Time since measurement,Chloride,True,True,False,False
+Creatinine__missing,Current missingness,Creatinine,True,True,False,False
+Creatinine__last,Last observed value,Creatinine,True,True,False,False
+Creatinine__count,Cumulative measurement count,Creatinine,True,True,False,False
+Creatinine__time_since,Time since measurement,Creatinine,True,True,False,False
+Bilirubin_direct__missing,Current missingness,Bilirubin_direct,True,True,False,False
+Bilirubin_direct__last,Last observed value,Bilirubin_direct,True,True,False,False
+Bilirubin_direct__count,Cumulative measurement count,Bilirubin_direct,True,True,False,False
+Bilirubin_direct__time_since,Time since measurement,Bilirubin_direct,True,True,False,False
+Glucose__missing,Current missingness,Glucose,True,True,False,False
+Glucose__last,Last observed value,Glucose,True,True,False,False
+Glucose__count,Cumulative measurement count,Glucose,True,True,False,False
+Glucose__time_since,Time since measurement,Glucose,True,True,False,False
+Lactate__missing,Current missingness,Lactate,True,True,False,False
+Lactate__last,Last observed value,Lactate,True,True,False,False
+Lactate__count,Cumulative measurement count,Lactate,True,True,False,False
+Lactate__time_since,Time since measurement,Lactate,True,True,False,False
+Magnesium__missing,Current missingness,Magnesium,True,True,False,False
+Magnesium__last,Last observed value,Magnesium,True,True,False,False
+Magnesium__count,Cumulative measurement count,Magnesium,True,True,False,False
+Magnesium__time_since,Time since measurement,Magnesium,True,True,False,False
+Phosphate__missing,Current missingness,Phosphate,True,True,False,False
+Phosphate__last,Last observed value,Phosphate,True,True,False,False
+Phosphate__count,Cumulative measurement count,Phosphate,True,True,False,False
+Phosphate__time_since,Time since measurement,Phosphate,True,True,False,False
+Potassium__missing,Current missingness,Potassium,True,True,False,False
+Potassium__last,Last observed value,Potassium,True,True,False,False
+Potassium__count,Cumulative measurement count,Potassium,True,True,False,False
+Potassium__time_since,Time since measurement,Potassium,True,True,False,False
+Bilirubin_total__missing,Current missingness,Bilirubin_total,True,True,False,False
+Bilirubin_total__last,Last observed value,Bilirubin_total,True,True,False,False
+Bilirubin_total__count,Cumulative measurement count,Bilirubin_total,True,True,False,False
+Bilirubin_total__time_since,Time since measurement,Bilirubin_total,True,True,False,False
+TroponinI__missing,Current missingness,TroponinI,True,True,False,False
+TroponinI__last,Last observed value,TroponinI,True,True,False,False
+TroponinI__count,Cumulative measurement count,TroponinI,True,True,False,False
+TroponinI__time_since,Time since measurement,TroponinI,True,True,False,False
+Hct__missing,Current missingness,Hct,True,True,False,False
+Hct__last,Last observed value,Hct,True,True,False,False
+Hct__count,Cumulative measurement count,Hct,True,True,False,False
+Hct__time_since,Time since measurement,Hct,True,True,False,False
+Hgb__missing,Current missingness,Hgb,True,True,False,False
+Hgb__last,Last observed value,Hgb,True,True,False,False
+Hgb__count,Cumulative measurement count,Hgb,True,True,False,False
+Hgb__time_since,Time since measurement,Hgb,True,True,False,False
+PTT__missing,Current missingness,PTT,True,True,False,False
+PTT__last,Last observed value,PTT,True,True,False,False
+PTT__count,Cumulative measurement count,PTT,True,True,False,False
+PTT__time_since,Time since measurement,PTT,True,True,False,False
+WBC__missing,Current missingness,WBC,True,True,False,False
+WBC__last,Last observed value,WBC,True,True,False,False
+WBC__count,Cumulative measurement count,WBC,True,True,False,False
+WBC__time_since,Time since measurement,WBC,True,True,False,False
+Fibrinogen__missing,Current missingness,Fibrinogen,True,True,False,False
+Fibrinogen__last,Last observed value,Fibrinogen,True,True,False,False
+Fibrinogen__count,Cumulative measurement count,Fibrinogen,True,True,False,False
+Fibrinogen__time_since,Time since measurement,Fibrinogen,True,True,False,False
+Platelets__missing,Current missingness,Platelets,True,True,False,False
+Platelets__last,Last observed value,Platelets,True,True,False,False
+Platelets__count,Cumulative measurement count,Platelets,True,True,False,False
+Platelets__time_since,Time since measurement,Platelets,True,True,False,False
+HR__delta,Tier 1 temporal dynamics,HR,True,True,False,False
+HR__roll6h_mean,Tier 1 temporal dynamics,HR,True,True,False,False
+HR__roll6h_min,Tier 1 temporal dynamics,HR,True,True,False,False
+HR__roll6h_max,Tier 1 temporal dynamics,HR,True,True,False,False
+HR__roll6h_std,Tier 1 temporal dynamics,HR,True,True,False,False
+HR__roll12h_mean,Tier 1 temporal dynamics,HR,True,True,False,False
+HR__roll24h_mean,Tier 1 temporal dynamics,HR,True,True,False,False
+MAP__delta,Tier 1 temporal dynamics,MAP,True,True,False,False
+MAP__roll6h_mean,Tier 1 temporal dynamics,MAP,True,True,False,False
+MAP__roll6h_min,Tier 1 temporal dynamics,MAP,True,True,False,False
+MAP__roll6h_max,Tier 1 temporal dynamics,MAP,True,True,False,False
+MAP__roll6h_std,Tier 1 temporal dynamics,MAP,True,True,False,False
+MAP__roll12h_mean,Tier 1 temporal dynamics,MAP,True,True,False,False
+MAP__roll24h_mean,Tier 1 temporal dynamics,MAP,True,True,False,False
+O2Sat__delta,Tier 1 temporal dynamics,O2Sat,True,True,False,False
+O2Sat__roll6h_mean,Tier 1 temporal dynamics,O2Sat,True,True,False,False
+O2Sat__roll6h_min,Tier 1 temporal dynamics,O2Sat,True,True,False,False
+O2Sat__roll6h_max,Tier 1 temporal dynamics,O2Sat,True,True,False,False
+O2Sat__roll6h_std,Tier 1 temporal dynamics,O2Sat,True,True,False,False
+O2Sat__roll12h_mean,Tier 1 temporal dynamics,O2Sat,True,True,False,False
+O2Sat__roll24h_mean,Tier 1 temporal dynamics,O2Sat,True,True,False,False
+SBP__delta,Tier 1 temporal dynamics,SBP,True,True,False,False
+SBP__roll6h_mean,Tier 1 temporal dynamics,SBP,True,True,False,False
+SBP__roll6h_min,Tier 1 temporal dynamics,SBP,True,True,False,False
+SBP__roll6h_max,Tier 1 temporal dynamics,SBP,True,True,False,False
+SBP__roll6h_std,Tier 1 temporal dynamics,SBP,True,True,False,False
+SBP__roll12h_mean,Tier 1 temporal dynamics,SBP,True,True,False,False
+SBP__roll24h_mean,Tier 1 temporal dynamics,SBP,True,True,False,False
+Resp__delta,Tier 1 temporal dynamics,Resp,True,True,False,False
+Resp__roll6h_mean,Tier 1 temporal dynamics,Resp,True,True,False,False
+Resp__roll6h_min,Tier 1 temporal dynamics,Resp,True,True,False,False
+Resp__roll6h_max,Tier 1 temporal dynamics,Resp,True,True,False,False
+Resp__roll6h_std,Tier 1 temporal dynamics,Resp,True,True,False,False
+Resp__roll12h_mean,Tier 1 temporal dynamics,Resp,True,True,False,False
+Resp__roll24h_mean,Tier 1 temporal dynamics,Resp,True,True,False,False
+DBP__delta,Tier 1 temporal dynamics,DBP,True,True,False,False
+DBP__roll6h_mean,Tier 1 temporal dynamics,DBP,True,True,False,False
+DBP__roll6h_min,Tier 1 temporal dynamics,DBP,True,True,False,False
+DBP__roll6h_max,Tier 1 temporal dynamics,DBP,True,True,False,False
+DBP__roll6h_std,Tier 1 temporal dynamics,DBP,True,True,False,False
+DBP__roll12h_mean,Tier 1 temporal dynamics,DBP,True,True,False,False
+DBP__roll24h_mean,Tier 1 temporal dynamics,DBP,True,True,False,False
+Temp__delta,Tier 2 temporal dynamics,Temp,True,True,False,False
+Temp__roll6h_mean,Tier 2 temporal dynamics,Temp,True,True,False,False
+Temp__roll12h_mean,Tier 2 temporal dynamics,Temp,True,True,False,False
+Glucose__delta,Tier 2 temporal dynamics,Glucose,True,True,False,False
+Glucose__roll6h_mean,Tier 2 temporal dynamics,Glucose,True,True,False,False
+Glucose__roll12h_mean,Tier 2 temporal dynamics,Glucose,True,True,False,False
+Age,Static / contextual,Age,True,True,False,False
+Gender,Static / contextual,Gender,True,True,False,False
+Unit1,Static / contextual,Unit1,True,True,False,False
+Unit2,Static / contextual,Unit2,True,True,False,False
+HospAdmTime,Static / contextual,HospAdmTime,True,True,False,False
+ICULOS,Static / contextual,ICULOS,True,True,False,False
+PriorObservedHours,Observation-history,PriorObservedHours,True,True,False,False
+ObservationNumber,Observation-history,ObservationNumber,True,True,False,False
+HasPriorHistory,Observation-history,HasPriorHistory,True,True,False,False
+Has6PriorHours,Observation-history,Has6PriorHours,True,True,False,False
+Has12PriorHours,Observation-history,Has12PriorHours,True,True,False,False
+Has24PriorHours,Observation-history,Has24PriorHours,True,True,False,False
