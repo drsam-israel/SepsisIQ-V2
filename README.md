@@ -22,9 +22,7 @@ An executive-facing, governance-aware clinical AI product demonstration for ICU 
 
 ### 🚀 Launch the Application
 
-**[▶ OPEN SEPSISIQ V2 — LIVE DASHBOARD](https://REPLACE-WITH-YOUR-DEPLOYED-APP-URL)**
-
-*Deployment link pending: replace the URL above with the actual public application address. Localhost URLs are not publicly accessible.*
+**[▶ OPEN SEPSISIQ V2 — LIVE DASHBOARD](https://sepsisiq-v2-bfne2qdqhntja2a2pxqgxf.streamlit.app/)**
 
 > ⚠️ **CLINICAL SAFETY NOTICE**
 >
